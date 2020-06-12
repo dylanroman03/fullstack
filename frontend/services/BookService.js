@@ -1,7 +1,7 @@
 class BookService {
 
   constructor() {
-      this.URI = 'http://localhost:4000/api/books';
+      this.URI = '/api/books';
   }
 
   async getBooks(){
@@ -24,8 +24,7 @@ class BookService {
       headers: {
         'Content-Type' :'application/json'
       },
-      method: 'DELETE',
-      body: book
+      method: 'Delete',
     });
     const data = await res.json();
     console.log(data);
