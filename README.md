@@ -16,7 +16,7 @@ List the main technologies, frameworks, and languages used in the project:
 
 ## Screenshots
 <!-- First Screenshot-->
-![App-Screenshot](https://https://github.com/dylanroman03/Fullstack/tree/master/screenshots/01.png)
+![App-Screenshot](/screenshots/01.png)
 
 ## Features
   Describe the key features and functionalities of the web app, such as:
